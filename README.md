@@ -58,13 +58,25 @@ endmodule
 
 ## Truth table:
 ## Half adder
-![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/067a9097-4ffa-45e3-a00d-e53d86fecbc3)
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/9d691985-89db-4235-9362-318a7613d6d8)
+
 ## Full adder
-![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/030b0e64-b0a9-473d-9d3e-ce462b78c2dd)
-### Output:
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/52d4361f-2698-43c0-9510-c1c94505f031)
+
+### RLT realization
 ## Half adder
-![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/cc8bfcc4-819b-4a6d-a116-4e05660eb7e0)
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/42ab55b3-4d9b-4b23-bb54-437d9df68070)
 ## Full adder
-![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/a4f70862-a50b-4603-9f69-9775955905a2)
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/ad02879a-d046-4eb7-aa96-586225cbd119)
+
+## output
+## Timing diagram
+## Half adder
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/12c4b84f-ee53-44bc-aac9-cc2a0f208655)
+## Full adder
+![image](https://github.com/syedfayaz3105/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147144126/7136a7d3-7ed9-44c8-ab04-eceeadcbf58e)
+
+
+
 ### Result:
 Thus the half adder and full adder circuits are designed and the truth tables is verified using quartus software
