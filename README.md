@@ -1,3 +1,5 @@
+## Developed by: Farhana H
+## register number:212223230057
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
@@ -23,9 +25,7 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 ![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
 ### Procedure
-Connect the supply (+5V) to the circuit
-Switch ON the main switch
-If the output is 1, then the led glows.
+cc
 ## Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
